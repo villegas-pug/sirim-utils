@@ -1,0 +1,20 @@
+Sistema de evaluación de nacionalización.
+1. ¿Que tipo de trámites evaluan?
+2. ¿Donde inicia el trámite? (SGD, SIMNAC)
+3. ¿Estos tramites adjuntan requisitos?
+4. ¿Cual es la trazabilidad del trámite internamente hasta ser aprobado?.
+
+
+» Evaluación
+» Control
+
+5. ¿Manejan alguna hoja de excel, donde registrar los trámite trabajados durante el dia?
+
+
+ 
+Sistema de consultas.
+
+¿Que tipos de consultas reciben por parte de las areas usuarios?
+¿El jefe de area o coordinador delega las solicitudes a los encargados administrativos de ciertos trámites?
+¿En la mayoria de veces solicitan el apoyo a TICE, para dar respuesta? Con reportes de tramites aprobados o pendientes.?
+¿Siempre emiten respuestas satisfactorias(Cumplen lo solicitado o siempre queda algo pendiente)?
